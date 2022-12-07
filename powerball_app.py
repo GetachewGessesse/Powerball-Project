@@ -11,7 +11,7 @@ from powerball_utiles import PowerBall
 
 # This class has the following purposes including printing the results, calling other classes, and most importantly
 # make a decision using condition(if, elif and else)
-class Grading:
+class Prize:
     # here PowerBall class is called to do a random numbers for winning number ranged from 1 to 10
     powerWinner = PowerBall()
     powerWinner.winner()

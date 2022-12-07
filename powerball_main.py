@@ -1,4 +1,4 @@
-from powerball_app import Grading
+from powerball_app import Prize
 
 if __name__ == '__main__':
-    Grading()
+    Prize()
